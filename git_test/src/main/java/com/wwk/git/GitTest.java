@@ -17,7 +17,7 @@ public class GitTest {
         System.out.println("ssh登入测试,test3!");
         System.out.println("ssh登入测试,test4!");
         System.out.println("Https登入测试,test5!");
-
+ System.out.println("https拉取测试,test6!");
 
     }
 }
