@@ -12,7 +12,9 @@ public class GitTest {
         System.out.println("hot-fix,git!");
         System.out.println("master,test1!");
         System.out.println("hot-fix,test2!");
+
         System.out.println("ssh登入测试,test2!");
+        System.out.println("ssh登入测试,test3!");
 
 
     }
